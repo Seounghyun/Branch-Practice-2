@@ -143,7 +143,8 @@ Module Module1
         Dim Y As Single             '해당 포인트의 Y좌표, [mm]
         Dim Z As Single             '해당 포인트의 Z좌표, [mm]
         '
-    End Structure
+    End Structure '이곳을 수정해보겠습니다.
     '박진영 작성 끝. 170403.
 
 End Module
+'대한민국 만세.
